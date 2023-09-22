@@ -1,0 +1,6 @@
+Post http://localhost:4000/user/get-otp
+Content-Type: application/json
+
+{
+    "mobile" : "09376310956"
+}
